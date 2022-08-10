@@ -1,7 +1,6 @@
 /*
  * File: input_helpers.c
- * Authors: Teddy Omondi
- *          Kirimi Makena Faith
+ * Authors: Mina & Michael
  */
 
 #include "shell.h"
