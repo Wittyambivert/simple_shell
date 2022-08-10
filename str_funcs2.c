@@ -1,7 +1,6 @@
 /*
  * File: str_funcs2.c
- * Authors: Kirimi Makena Faith
- *          Teddy Omondi
+ * Authors: Mina & Michael
  */
 
 #include "shell.h"
