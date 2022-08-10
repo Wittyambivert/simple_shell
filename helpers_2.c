@@ -1,7 +1,6 @@
-*
+/*
  * File: helpers_2.c
- * Author: Ukonu, Divine Chisom
- *         Nobert Patrick
+ * Author: Mina & Michael
  */
 
 #include "shell.h"
