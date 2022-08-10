@@ -1,4 +1,4 @@
-*
+/*
  * File: helper.c
  * Authors: Mina & Michael
  */
